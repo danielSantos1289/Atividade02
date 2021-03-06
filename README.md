@@ -1,2 +1,2 @@
 # Atividade02
-Atividade professor Taveira
+Atividade professor Taveira.
